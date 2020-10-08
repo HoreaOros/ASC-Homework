@@ -1,0 +1,7 @@
+C:\Users\40770\An1\Sem1\ArhitecturaSistemelorDeCalcul\Homework\Homework1\Homework1\Homework1\bin\Debug\Homework1.exe.config
+C:\Users\40770\An1\Sem1\ArhitecturaSistemelorDeCalcul\Homework\Homework1\Homework1\Homework1\bin\Debug\Homework1.exe
+C:\Users\40770\An1\Sem1\ArhitecturaSistemelorDeCalcul\Homework\Homework1\Homework1\Homework1\bin\Debug\Homework1.pdb
+C:\Users\40770\An1\Sem1\ArhitecturaSistemelorDeCalcul\Homework\Homework1\Homework1\Homework1\obj\Debug\Homework1.csprojAssemblyReference.cache
+C:\Users\40770\An1\Sem1\ArhitecturaSistemelorDeCalcul\Homework\Homework1\Homework1\Homework1\obj\Debug\Homework1.csproj.CoreCompileInputs.cache
+C:\Users\40770\An1\Sem1\ArhitecturaSistemelorDeCalcul\Homework\Homework1\Homework1\Homework1\obj\Debug\Homework1.exe
+C:\Users\40770\An1\Sem1\ArhitecturaSistemelorDeCalcul\Homework\Homework1\Homework1\Homework1\obj\Debug\Homework1.pdb
